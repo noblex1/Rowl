@@ -36,24 +36,6 @@ Rowl is a decentralized social networking platform built on the Sui blockchain t
 
 Users can create posts (Suits), interact with content through likes and comments, discover and connect with other users, and start direct conversations - all while maintaining full ownership of their data and content.
 
-### Hackathon Challenge Requirements Met
-
-Core Requirements:
-- Posting (Suits): Create Post Objects (Suits) as dedicated Move objects with text content
-- Rowl Feed: Functional frontend feed that retrieves and renders all published Suits with pagination
-- Public Deployment: Frontend deployed on Vercel with public access
-
-Bonus Features Implemented:
-- **Interactions:** On-chain objects for Comments and Likes with real-time updates
-- **Profiles:** Complete Profile system with username, bio, and profile image binding
-- **Content Types:** Support for text, image, and video posts with auto-detection
-- **Video Features:** TikTok-style autoplay with Intersection Observer for smooth performance
-- **Social Features:** User discovery, profile viewing, and direct messaging
-- **Tipping System:** On-chain tipping with balance management and withdrawals
-- **Advanced Features:** Real-time search, balance management, asset tracking, and more
-- **File Upload:** Multiple Walrus publisher endpoints with automatic fallback
-- **User Experience:** Skeleton loaders, empty states, and professional loading indicators
-
 
 ## Features
 
